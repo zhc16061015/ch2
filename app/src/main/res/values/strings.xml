@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="button_good">you are good</string>
+    <string name="view">可见</string>
+    <string name="text_happy">爽</string>
+    <string name="text_sad">伤</string>
+</resources>
