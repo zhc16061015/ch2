@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="button_good">you are good</string>
-    <string name="view">可见</string>
-    <string name="text_happy">爽</string>
-    <string name="text_sad">伤</string>
+    <string name="app_name">homework_new</string>
+    <string name="ex2_num">有多少个view</string>
+    <string name="ex2_1">view1</string>
+    <string name="ex2_2">view2</string>
+    <string name="ex2_3">view3</string>
+    <string name="ex2_4">view4</string>
+    <string name="ex3_txt1">粉丝</string>
+    <string name="ex3_txt2">赞</string>
+    <string name="ex3_txt3">\@我的</string>
+    <string name="ex3_txt4">评论</string>
+    <string name="chat_room_title">我和%1$s的对话</string>
+    <string name="ex3_head">消息</string>
 </resources>
